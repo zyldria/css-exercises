@@ -25,11 +25,11 @@ These exercises should be done when instructed during the course of the curricul
 
 1. Foundations:
   - 01-css-methods [✅]
-  - 02-class-id-selectors [ ]
-  - 03-grouping-selectors [ ]
-  - 04-chaining-selectors [ ]
-  - 05-descendant-combinator [ ]
-  - 06-cascade-fix [ ]
+  - 02-class-id-selectors [✅]
+  - 03-grouping-selectors [✅]
+  - 04-chaining-selectors [✅]
+  - 05-descendant-combinator [✅]
+  - 06-cascade-fix [✅]
 
 2. Margin and Padding:
   - margin-and-padding-1 [ ]
